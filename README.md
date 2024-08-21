@@ -4,7 +4,7 @@
 - Instructor: Kevin Cunningham
   - Email: kevin@kevincunningham.co.uk
   - Website: https://kevincunningham.co.uk
-- Repo link: [Insert Repo Link](https://github.com/doingandlearning/bbc-tdd-aug-2024)
+- Repo link: [Insert Repo Link](https://github.com/doingandlearning/python-tdd-aug-24)
 - Feedback link: [Feedback](https://forms.microsoft.com/e/ppezudAfvf)
 - Miro board: [Miro](https://miro.com/app/board/uXjVKnBaaVU=/)
 
