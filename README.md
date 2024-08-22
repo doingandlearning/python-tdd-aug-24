@@ -1,4 +1,4 @@
-# Python TDD Primer 1 Day Workshop
+# ~~Python~~ TDD Primer 1 Day Workshop
 
 - Date: 22nd August
 - Instructor: Kevin Cunningham
